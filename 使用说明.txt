@@ -1,0 +1,1 @@
+把report文件夹删掉，还有svn.log也删掉。执行.bat脚本文件，而后点击report文件夹下的index.html里面develop模块。

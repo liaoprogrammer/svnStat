@@ -1,1 +1,1 @@
-把report文件夹删掉，还有svn.log也删掉。执行.bat脚本文件，而后点击report文件夹下的index.html里面develop模块。
+配置好python环境，管理员在配置文件里填写svn账户，svn密码，以及要统计代码量的时间段start_date至end_date。主文件是svnComp.py。主文件会把注释行和空行过滤掉，生成一个文件夹，文件夹里面就会展示各个开发者在某段时间的代码工作量
